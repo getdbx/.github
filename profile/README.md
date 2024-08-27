@@ -1,5 +1,9 @@
 <img width="1228" alt="image" src="https://github.com/user-attachments/assets/af52fd51-fe8b-4e98-9698-f056f3b80c71">
 
+<br/> 
+<br/> 
+
+
 **dbx** is a cross-platform AI-powered database client that allows you to chat with your database
 
 we will be open-sourcing the project in the next few weeks, so stay tuned!
