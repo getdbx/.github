@@ -1,4 +1,4 @@
-<a href="https://github.com/getdbx/dbx">
+<a href="https://getdbx.com?ref=github">
 <img width="1228" alt="image" src="https://github.com/user-attachments/assets/af52fd51-fe8b-4e98-9698-f056f3b80c71">
 </a>
 
